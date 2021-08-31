@@ -59,9 +59,9 @@ def download(csv):
     print("Opening GLIDEnumber.net")
     r = s.post(SEARCH_URL, data=search_post_data)
     doc = html.fromstring(r.text)
-    urls = [
-        BASE_URL + a.get('href').split('&', 1)[0]
-        for a in doc.xpath('//table')[6].xpath('tr/td[1]/a')]
+    url_lookup = dict([
+        (a.text, BASE_URL + a.get('href').split('&', 1)[0])
+        for a in doc.xpath('//table')[6].xpath('tr/td[1]/a')])
 
     post_data = [
         ("continueReport", "Continue"),
@@ -81,14 +81,14 @@ def download(csv):
     doc = html.fromstring(r.text)
     rows = doc.xpath("//table")[2].xpath("tr/td/table[2]/tr")
     print("Found {} entries".format(len(rows)))
-    for row, url in zip(rows, urls):
+    for row in rows:
         # if not row.xpath("tr/td[@class='bfS']"): continue
         if (len(row.xpath("td")) != 8):
             print("Irregular column width, skipping")
             continue
         csv.writerow({
             "GLIDE_number": get_t(row, 0),
-            "URL": url,
+            "URL": url_lookup.get(get_t(row, 0)),
             "Event": get_t(row, 1),
             "Country": get_t(row, 2),
             "Date": make_date(get_t(row, 3)),
