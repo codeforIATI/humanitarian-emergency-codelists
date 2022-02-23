@@ -1,4 +1,8 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
+TC-2022-000175-MDG,https://glidenumber.net/glide/public/search/details.jsp?glide=22536,Tropical Cyclone,Madagascar,2022-02-22,TC,MDG,2022-000175,"GDACS - High humanitarian impact, max wind speed 204 km/h"
+EC-2022-000174-MDG,https://glidenumber.net/glide/public/search/details.jsp?glide=22535,Extratropical Cyclone,Madagascar,2022-02-22,EC,MDG,2022-000174,"Tropical Cyclone Emnati has passed Mauritius and the French territory of La Reunion and is forecast to reach Madagascar on Tuesday, 22 Feb. Communities that were hardest-hit by Tropical Cyclone Batsirai are likely to be impacted again by Emnati, which is expected to make landfall between the cities of Mananjary and Manakara. Response efforts are ongoing, led by the Government with support from humanitarian partners."
+WF-2022-000173-ARG,https://glidenumber.net/glide/public/search/details.jsp?glide=22534,Wild fire,Argentina,2022-02-21,WF,ARG,2022-000173,GDACS - Medium in Argentina
+OT-2022-000172-RUS,https://glidenumber.net/glide/public/search/details.jsp?glide=22533,Other,Russia,2022-02-19,OT,RUS,2022-000172,Preparedness.
 FL-2022-000171-BRA,https://glidenumber.net/glide/public/search/details.jsp?glide=22532,Flood,Brazil,2022-02-17,FL,BRA,2022-000171,GDACS - Medium in Brazil
 DR-2022-000170-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=22531,Drought,Spain,2022-02-11,DR,ESP,2022-000170,GDACS - Medium impact for agricultural drought in 212456 km2 over Spain - Portugal-2021
 DR-2022-000169-DZA,https://glidenumber.net/glide/public/search/details.jsp?glide=22530,Drought,Algeria,2022-02-11,DR,DZA,2022-000169,GDACS - Medium impact for agricultural drought in 246431 km2 over Morocco Algeria Tunisia-2021
