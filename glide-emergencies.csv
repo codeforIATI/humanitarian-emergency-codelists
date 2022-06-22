@@ -1,4 +1,7 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
+EQ-2022-000232-AFG,https://glidenumber.net/glide/public/search/details.jsp?glide=22595,Earthquake,Afghanistan,2022-06-21,EQ,AFG,2022-000232,"GDACS - High humanitarian impact, magnitude 5.9M"
+TC-2022-000231-MEX,https://glidenumber.net/glide/public/search/details.jsp?glide=22594,Tropical Cyclone,Mexico,2022-06-21,TC,MEX,2022-000231,"GDACS - Tropical Cyclone CELIA-22 Medium humanitarian impact, max wind speed 139 km/h"
+FL-2022-000230-NPL,https://glidenumber.net/glide/public/search/details.jsp?glide=22593,Flood,Nepal,2022-06-01,FL,NPL,2022-000230,"Since the beginning of June, 2022, heavy rainfall, strong winds, and thunderstorms have been affecting parts of Nepal, causing floods, flash floods, landslides and leading to casualties. 21 people have died."
 TC-2022-000229-IND,https://glidenumber.net/glide/public/search/details.jsp?glide=22592,Tropical Cyclone,India,2022-05-11,TC,IND,2022-000229,"GDACS - Tropical Cyclone ASANI-22 High humanitarian impact, max wind speed 120 km/h"
 FL-2022-000228-USA,https://glidenumber.net/glide/public/search/details.jsp?glide=22591,Flood,United States,2022-06-15,FL,USA,2022-000228,GDACS - Medium in United States
 VO-2022-000227-PHL,https://glidenumber.net/glide/public/search/details.jsp?glide=22590,Volcano,Philippines,2022-06-13,VO,PHL,2022-000227,"418 people have been evacuated and 16,400 were affected"
