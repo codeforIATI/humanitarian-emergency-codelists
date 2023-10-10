@@ -1,4 +1,5 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
+CE-2023-000186-PSE,https://glidenumber.net/glide/public/search/details.jsp?glide=23020,Complex Emergency,"Palestine (West Bank, Gaza)",2023-10-08,CE,PSE,2023-000186,
 EQ-2023-000185-PNG,https://glidenumber.net/glide/public/search/details.jsp?glide=23010,Earthquake,Papua New Guinea,2023-10-07,EQ,PNG,2023-000185,"GDACS - Medium humanitarian impact, magnitude 6.7M tsunami generates 0m"
 EQ-2023-000184-AFG,https://glidenumber.net/glide/public/search/details.jsp?glide=23009,Earthquake,Afghanistan,2023-10-07,EQ,AFG,2023-000184,"GDACS - High humanitarian impact, magnitude 6.3M"
 TC-2023-000183-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=23008,Tropical Cyclone,"China, People's Republic",2023-09-29,TC,CHN,2023-000183,"GDACS - Tropical Cyclone KOINU-23 Medium humanitarian impact, max wind speed 213 km/h"
