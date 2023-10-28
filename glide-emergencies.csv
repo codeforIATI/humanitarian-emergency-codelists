@@ -1,4 +1,6 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
+FL-2023-000211-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide=23052,Flood,Bangladesh,2023-10-24,FL,BGD,2023-000211,GDACS - Medium in Bangladesh
+DR-2023-000210-SOM,https://glidenumber.net/glide/public/search/details.jsp?glide=23051,Drought,Somalia,2023-05-21,DR,SOM,2023-000210,GDACS - Medium impact for agricultural drought in 87260 km2 over Somalia-2023
 TC-2023-000209-MEX,https://glidenumber.net/glide/public/search/details.jsp?glide=23050,Tropical Cyclone,Mexico,2023-10-22,TC,MEX,2023-000209,"GDACS - Tropical Cyclone OTIS-23 Medium humanitarian impact, max wind speed 259 km/h"
 TC-2023-000208-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide=23048,Tropical Cyclone,Bangladesh,2023-10-23,TC,BGD,2023-000208,"GDACS - Tropical Cyclone HAMOON-23 High humanitarian impact, max wind speed 148 km/h"
 TC-2023-000207-VUT,https://glidenumber.net/glide/public/search/details.jsp?glide=23047,Tropical Cyclone,Vanuatu,2023-10-21,TC,VUT,2023-000207,"GDACS - Tropical Cyclone LOLA-23 Medium humanitarian impact, max wind speed 222 km/h"
