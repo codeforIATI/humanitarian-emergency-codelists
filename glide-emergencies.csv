@@ -1,6 +1,6 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
 FL-2025-000078-NGA,https://glidenumber.net/glide/public/search/details.jsp?glide=23527,Flood,Nigeria,2025-05-29,FL,NGA,2025-000078,"At least 153 people have died following flooding on 29 May in Mokwa, Niger State, in north-central Nigeria, according to State authorities."
-FA-2025-000077-NGA,https://glidenumber.net/glide/public/search/details.jsp?glide=23526,"Famine(use other ""Hazard"" code instead)",Nigeria,2025-06-03,FA,NGA,2025-000077,"Nigeria is currently facing a national emergency due to worsening food insecurity and malnutrition. On April 14, 2025, President Bola Ahmed Tinubu declared a state of emergency on food security, recognizing the rapidly deteriorating situation marked by soaring food prices, widespread hunger, and severe acute malnutrition across several parts of the country. He further announced that food and water availability and affordability would now fall under the responsibilities of the National Security Council, underlining the critical link between food security and national stability, and requested humanitarian partners to scale up their support to the government's planned intervention"
+FA-2025-000077-NGA,https://glidenumber.net/glide/public/search/details.jsp?glide=23526,Famine(use other HAZARD instead),Nigeria,2025-06-03,FA,NGA,2025-000077,"Nigeria is currently facing a national emergency due to worsening food insecurity and malnutrition. On April 14, 2025, President Bola Ahmed Tinubu declared a state of emergency on food security, recognizing the rapidly deteriorating situation marked by soaring food prices, widespread hunger, and severe acute malnutrition across several parts of the country. He further announced that food and water availability and affordability would now fall under the responsibilities of the National Security Council, underlining the critical link between food security and national stability, and requested humanitarian partners to scale up their support to the government's planned intervention"
 FL-2025-000076-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide=23525,Flood,Bangladesh,2025-06-01,FL,BGD,2025-000076,"The ongoing flood crisis in Bangladesh began in mid-May 2025, primarily triggered by heavy monsoon rainfall and upstream water flow from India. The situation has worsened significantly towards the end of May when a deep depression formed over the Bay of Bengal making landfall near the West Bengal-Bangladesh coast on 29 May 2025. This weather condition brought torrential rains and strong winds exacerbating the flooding particularly in the northeastern and southeastern regions of the country. As of 1 June 2025, several districts, including Sylhet, Sunamganj, Moulvibazar, Habiganj, Netrokona, Noakhali, Bhola, Khagrachari, Bandarban and Rangamati have been severely affected."
 EP-2025-000075-ZWE,https://glidenumber.net/glide/public/search/details.jsp?glide=23524,Epidemic,Zimbabwe,2025-05-03,EP,ZWE,2025-000075,"The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025."
 EP-2025-000074-KEN,https://glidenumber.net/glide/public/search/details.jsp?glide=23523,Epidemic,Kenya,2025-05-14,EP,KEN,2025-000074,"Since the beginning of the cholera outbreak in February 2025, Kenya has faced a cholera outbreak now affecting the Coastal, Lower Eastern, and Western regions. As of 13 May, 244 cases and 11 deaths have been reported, with a 4.5% case fatality rate. All affected
@@ -8086,7 +8086,7 @@ AC-2002-000856-IND,https://glidenumber.net/glide/public/search/details.jsp?glide
 AC-2002-000855-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide=9330,Tech. Disaster,Bangladesh,2002-01-07,AC,BGD,2002-000855,(Road)
 EP-2002-000854-COG,https://glidenumber.net/glide/public/search/details.jsp?glide=9737,Epidemic,"Congo, Republic",2002-12-31,EP,COG,2002-000854,{Ebola} (Arbovirus)
 AC-2002-000853-LKA,https://glidenumber.net/glide/public/search/details.jsp?glide=10495,Tech. Disaster,Sri Lanka,2002-08-01,AC,LKA,2002-000853,"{Tanker ""Mario""} (Water)"
-FA-2002-000852-UGA,https://glidenumber.net/glide/public/search/details.jsp?glide=11364,"Famine(use other ""Hazard"" code instead)",Uganda,2002/7/0,FA,UGA,2002-000852,(Food shortage)
+FA-2002-000852-UGA,https://glidenumber.net/glide/public/search/details.jsp?glide=11364,Famine(use other HAZARD instead),Uganda,2002/7/0,FA,UGA,2002-000852,(Food shortage)
 ST-2002-000851-SLV,https://glidenumber.net/glide/public/search/details.jsp?glide=11176,SEVERE LOCAL STORM,El Salvador,2002-09-21,ST,SLV,2002-000851,{Isidore} (Hurricane)
 ST-2002-000850-NIC,https://glidenumber.net/glide/public/search/details.jsp?glide=10826,SEVERE LOCAL STORM,Nicaragua,2002-09-11,ST,NIC,2002-000850,{Isidore} (Hurricane)
 ST-2002-000849-GTM,https://glidenumber.net/glide/public/search/details.jsp?glide=10053,SEVERE LOCAL STORM,Guatemala,2002-09-21,ST,GTM,2002-000849,{Isidore} (Hurricane)
@@ -8097,7 +8097,7 @@ FL-2002-000845-COL,https://glidenumber.net/glide/public/search/details.jsp?glide
 DR-2002-000844-PAK,https://glidenumber.net/glide/public/search/details.jsp?glide=10889,Drought,Pakistan,2002/11/0,DR,PAK,2002-000844,(Drought)
 DR-2002-000843-PER,https://glidenumber.net/glide/public/search/details.jsp?glide=10922,Drought,Peru,2002/2/0,DR,PER,2002-000843,(Drought)
 FL-2002-000842-BDI,https://glidenumber.net/glide/public/search/details.jsp?glide=9280,Flood,Burundi,2002/3/0,FL,BDI,2002-000842,(Flood)
-FA-2002-000841-PAN,https://glidenumber.net/glide/public/search/details.jsp?glide=10895,"Famine(use other ""Hazard"" code instead)",Panama,2002/6/0,FA,PAN,2002-000841,(Food shortage)
+FA-2002-000841-PAN,https://glidenumber.net/glide/public/search/details.jsp?glide=10895,Famine(use other HAZARD instead),Panama,2002/6/0,FA,PAN,2002-000841,(Food shortage)
 FL-2002-000840-DOM,https://glidenumber.net/glide/public/search/details.jsp?glide=9808,Flood,Dominican Republic,2002/6/0,FL,DOM,2002-000840,(Flood)
 FL-2002-000839-COL,https://glidenumber.net/glide/public/search/details.jsp?glide=9747,Flood,Colombia,2002/7/0,FL,COL,2002-000839,(Flood)
 DR-2002-000838-HND,https://glidenumber.net/glide/public/search/details.jsp?glide=10067,Drought,Honduras,2002/6/0,DR,HND,2002-000838,(Drought)
@@ -8231,7 +8231,7 @@ FL-2002-000711-KEN,https://glidenumber.net/glide/public/search/details.jsp?glide
 AC-2002-000710-PER,https://glidenumber.net/glide/public/search/details.jsp?glide=10923,Tech. Disaster,Peru,2002-11-17,AC,PER,2002-000710,(Water)
 AC-2002-000709-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=9899,Tech. Disaster,Spain,2002-11-17,AC,ESP,2002-000709,(Ind:Chemical spill)
 FL-2002-000708-PER,https://glidenumber.net/glide/public/search/details.jsp?glide=10924,Flood,Peru,2002-11-10,FL,PER,2002-000708,(Flood)
-FA-2002-000707-MDG,https://glidenumber.net/glide/public/search/details.jsp?glide=10545,"Famine(use other ""Hazard"" code instead)",Madagascar,2002/11/0,FA,MDG,2002-000707,(Food shortage)
+FA-2002-000707-MDG,https://glidenumber.net/glide/public/search/details.jsp?glide=10545,Famine(use other HAZARD instead),Madagascar,2002/11/0,FA,MDG,2002-000707,(Food shortage)
 ST-2002-000706-AUT,https://glidenumber.net/glide/public/search/details.jsp?glide=9270,SEVERE LOCAL STORM,Austria,2002-11-14,ST,AUT,2002-000706,(Storm)
 ST-2002-000705-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide=9332,SEVERE LOCAL STORM,Bangladesh,2002-11-14,ST,BGD,2002-000705,(Cyclone)
 AC-2002-000704-PHL,https://glidenumber.net/glide/public/search/details.jsp?glide=10937,Tech. Disaster,Philippines,2002-11-14,AC,PHL,2002-000704,{Chalutier} (Water)
@@ -8454,7 +8454,7 @@ FL-2002-000488-GBR,https://glidenumber.net/glide/public/search/details.jsp?glide
 DR-2002-000487-SEN,https://glidenumber.net/glide/public/search/details.jsp?glide=11154,Drought,Senegal,2002/8/0,DR,SEN,2002-000487,(Drought)
 AC-2002-000486-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=9898,Tech. Disaster,Spain,2002-06-22,AC,ESP,2002-000486,{Contamination} (Misc:Other)
 DR-2002-000485-KHM,https://glidenumber.net/glide/public/search/details.jsp?glide=10456,Drought,Cambodia,2002/1/0,DR,KHM,2002-000485,"Drought affected 420 communes, 79 districts, and 10 provinces for 8 months from January to August. Drought damaged to agriculture 62,702 ha of rice crop and the cost of the drought was estimated to be more than US$ 21.5 million. Statistics from the NCDM indicate the the drought had affected 2,047,340 people or 442,419 families."
-FA-2002-000484-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=10998,"Famine(use other ""Hazard"" code instead)","Korea, Democratic People's Republic",2002/0/0,FA,PRK,2002-000484,(Food shortage)
+FA-2002-000484-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=10998,Famine(use other HAZARD instead),"Korea, Democratic People's Republic",2002/0/0,FA,PRK,2002-000484,(Food shortage)
 FL-2002-000483-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=9477,Flood,"China, People's Republic",2002-08-05,FL,CHN,2002-000483,(Flood)
 FL-2002-000482-RUS,https://glidenumber.net/glide/public/search/details.jsp?glide=11088,Flood,Russia,2002-08-08,FL,RUS,2002-000482,(Flood)
 FL-2002-000481-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=9476,Flood,"China, People's Republic",2002/8/0,FL,CHN,2002-000481,(Flood)
@@ -8540,7 +8540,7 @@ FL-2002-000402-BGD,https://glidenumber.net/glide/public/search/details.jsp?glide
 AC-2002-000401-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=9616,Tech. Disaster,"China, People's Republic",2002-07-03,AC,CHN,2002-000401,{Mine} (Ind:Other)
 AC-2002-000400-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=9615,Tech. Disaster,"China, People's Republic",2002-07-03,AC,CHN,2002-000400,{Coal mine} (Ind:Explosion)
 EP-2002-000399-PAN,https://glidenumber.net/glide/public/search/details.jsp?glide=10901,Epidemic,Panama,2002-06-01,EP,PAN,2002-000399,{Viral meningitis} (Meningitis)
-FA-2002-000398-CPV,https://glidenumber.net/glide/public/search/details.jsp?glide=9766,"Famine(use other ""Hazard"" code instead)",Cape Verde,2002/6/0,FA,CPV,2002-000398,(Food shortage)
+FA-2002-000398-CPV,https://glidenumber.net/glide/public/search/details.jsp?glide=9766,Famine(use other HAZARD instead),Cape Verde,2002/6/0,FA,CPV,2002-000398,(Food shortage)
 ST-2002-000397-FSM,https://glidenumber.net/glide/public/search/details.jsp?glide=9964,SEVERE LOCAL STORM,"Micronesia, Federated States",2002-07-01,ST,FSM,2002-000397,{Chata'an} (Tropical storm)
 AC-2002-000396-SDN,https://glidenumber.net/glide/public/search/details.jsp?glide=11146,Tech. Disaster,Sudan,2002-07-02,AC,SDN,2002-000396,(Water)
 AC-2002-000395-IDN,https://glidenumber.net/glide/public/search/details.jsp?glide=10093,Tech. Disaster,Indonesia,2002-07-02,AC,IDN,2002-000395,(Road)
@@ -8604,7 +8604,7 @@ FL-2002-000337-SLV,https://glidenumber.net/glide/public/search/details.jsp?glide
 AC-2002-000336-MOZ,https://glidenumber.net/glide/public/search/details.jsp?glide=10620,Tech. Disaster,Mozambique,2002-06-02,AC,MOZ,2002-000336,{Chalutier} (Water)
 AC-2002-000335-AGO,https://glidenumber.net/glide/public/search/details.jsp?glide=9202,Tech. Disaster,Angola,2002-06-02,AC,AGO,2002-000335,{Helicopter M-17} (Air)
 AC-2002-000334-PAK,https://glidenumber.net/glide/public/search/details.jsp?glide=10857,Tech. Disaster,Pakistan,2002-06-02,AC,PAK,2002-000334,(Road)
-FA-2002-000333-LSO,https://glidenumber.net/glide/public/search/details.jsp?glide=10507,"Famine(use other ""Hazard"" code instead)",Lesotho,2002/4/0,FA,LSO,2002-000333,(Famine)
+FA-2002-000333-LSO,https://glidenumber.net/glide/public/search/details.jsp?glide=10507,Famine(use other HAZARD instead),Lesotho,2002/4/0,FA,LSO,2002-000333,(Famine)
 DR-2002-000332-GNB,https://glidenumber.net/glide/public/search/details.jsp?glide=10016,Drought,Guinea Bissau,2002/5/0,DR,GNB,2002-000332,(Drought)
 WF-2002-000331-USA,https://glidenumber.net/glide/public/search/details.jsp?glide=11499,Wild fire,United States,2002/5/0,WF,USA,2002-000331,(Forest)
 ST-2002-000330-PAK,https://glidenumber.net/glide/public/search/details.jsp?glide=10859,SEVERE LOCAL STORM,Pakistan,2002-05-27,ST,PAK,2002-000330,(Storm)
@@ -8755,7 +8755,7 @@ FL-2002-000186-IDN,https://glidenumber.net/glide/public/search/details.jsp?glide
 FL-2002-000185-AFG,https://glidenumber.net/glide/public/search/details.jsp?glide=9177,Flood,Afghanistan,2002-03-22,FL,AFG,2002-000185,(Flood)
 WF-2002-000184-USA,https://glidenumber.net/glide/public/search/details.jsp?glide=11404,Wild fire,United States,2002/3/0,WF,USA,2002-000184,(Forest)
 FL-2002-000183-USA,https://glidenumber.net/glide/public/search/details.jsp?glide=11410,Flood,United States,2002-03-17,FL,USA,2002-000183,(Flood)
-FA-2002-000182-SWZ,https://glidenumber.net/glide/public/search/details.jsp?glide=11214,"Famine(use other ""Hazard"" code instead)",Eswatini,2002/3/0,FA,SWZ,2002-000182,(Food shortage)
+FA-2002-000182-SWZ,https://glidenumber.net/glide/public/search/details.jsp?glide=11214,Famine(use other HAZARD instead),Eswatini,2002/3/0,FA,SWZ,2002-000182,(Food shortage)
 WF-2002-000181-JPN,https://glidenumber.net/glide/public/search/details.jsp?glide=10416,Wild fire,Japan,2002-03-22,WF,JPN,2002-000181,(Forest)
 ST-2002-000180-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=9593,SEVERE LOCAL STORM,"China, People's Republic",2002-03-20,ST,CHN,2002-000180,(Storm)
 AC-2002-000179-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=9900,Tech. Disaster,Spain,2002-03-30,AC,ESP,2002-000179,(Rail)
@@ -8955,7 +8955,7 @@ TC-2001-000788-PHL,https://glidenumber.net/glide/public/search/details.jsp?glide
 TC-2001-000787-JPN,https://glidenumber.net/glide/public/search/details.jsp?glide=17882,Tropical Cyclone,Japan,2001-08-21,TC,JPN,2001-000787,"The typhoon Pabuk (T0111) killed 9, injured 40, affected 7,000 and caused US$800,000,000 damage in Japan."
 TC-2001-000786-JPN,https://glidenumber.net/glide/public/search/details.jsp?glide=17881,Tropical Cyclone,Japan,2001-09-10,TC,JPN,2001-000786,"The typhoon Danas (T0115) killed 7, injured 15, affected 1,200 and caused US$500,000,000 damage in Japan."
 TC-2001-000785-USA,https://glidenumber.net/glide/public/search/details.jsp?glide=17614,Tropical Cyclone,United States,2001-06-05,TC,USA,2001-000785,"The persistent remnants of Tropical Storm Allison produced rainfall amounts of 30-40 inches in portions of coastal Texas and Louisiana, causing severe flooding especially in the Houston area. The storm then moved slowly northeastward; fatalities and significant damage reported in TX, LA, MS, FL, VA, and PA. NOAA reports $5 billion in damages. Twenty-two deaths were caused by Allison, with each of these fatalities occurred in Harris County."
-FA-2001-000784-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=11002,"Famine(use other ""Hazard"" code instead)","Korea, Democratic People's Republic",2001/0/0,FA,PRK,2001-000784,(Food shortage)
+FA-2001-000784-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=11002,Famine(use other HAZARD instead),"Korea, Democratic People's Republic",2001/0/0,FA,PRK,2001-000784,(Food shortage)
 FL-2001-000783-BIH,https://glidenumber.net/glide/public/search/details.jsp?glide=9372,Flood,Bosnia-Herzegovina,2001/6/0,FL,BIH,2001-000783,(Flood)
 FL-2001-000782-LAO,https://glidenumber.net/glide/public/search/details.jsp?glide=10478,Flood,Lao People's Democratic Republic,2001/8/0,FL,LAO,2001-000782,(Flood)
 AC-2001-000781-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=9888,Tech. Disaster,Spain,2001-02-05,AC,ESP,2001-000781,(Water)
@@ -9694,7 +9694,7 @@ DR-2001-000048-MOZ,https://glidenumber.net/glide/public/search/details.jsp?glide
 SL-2001-000047-TZA,https://glidenumber.net/glide/public/search/details.jsp?glide=11351,SLIDE (use LS/ AV/MS instead),Tanzania,2001-01-22,SL,TZA,2001-000047,(Landslide)
 SL-2001-000046-IDN,https://glidenumber.net/glide/public/search/details.jsp?glide=10158,SLIDE (use LS/ AV/MS instead),Indonesia,2001-01-22,SL,IDN,2001-000046,(Landslide)
 ST-2001-000045-AUS,https://glidenumber.net/glide/public/search/details.jsp?glide=9257,SEVERE LOCAL STORM,Australia,2001-01-18,ST,AUS,2001-000045,(Storm)
-FA-2001-000044-MLI,https://glidenumber.net/glide/public/search/details.jsp?glide=10590,"Famine(use other ""Hazard"" code instead)",Mali,2001/0/0,FA,MLI,2001-000044,(Food shortage)
+FA-2001-000044-MLI,https://glidenumber.net/glide/public/search/details.jsp?glide=10590,Famine(use other HAZARD instead),Mali,2001/0/0,FA,MLI,2001-000044,(Food shortage)
 AC-2001-000043-ECU,https://glidenumber.net/glide/public/search/details.jsp?glide=9835,Tech. Disaster,Ecuador,2001-01-17,AC,ECU,2001-000043,{Jessica} (Ind:Other)
 EQ-2001-000042-SLV,https://glidenumber.net/glide/public/search/details.jsp?glide=11175,Earthquake,El Salvador,2001-02-13,EQ,SLV,2001-000042,(Earthquake)
 SL-2001-000041-IDN,https://glidenumber.net/glide/public/search/details.jsp?glide=10157,SLIDE (use LS/ AV/MS instead),Indonesia,2001-02-11,SL,IDN,2001-000041,(Landslide)
@@ -9765,7 +9765,7 @@ TC-2000-000891-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide
 TC-2000-000890-JPN,https://glidenumber.net/glide/public/search/details.jsp?glide=17883,Tropical Cyclone,Japan,2000-09-11,TC,JPN,2000-000890,"The typhoon Saomai killed 9, injured 41, affected 180,000 and caused US$1,400,000 damage in Japan."
 TC-2000-000890-KOR,https://glidenumber.net/glide/public/search/details.jsp?glide=17884,Tropical Cyclone,Korea Republic,2000-09-16,TC,KOR,2000-000890,"The typhoon Saomai killed 8, left 411 homeless and caused US$71,000,000 damage in Republic of Korea."
 AC-2000-000889-IDN,https://glidenumber.net/glide/public/search/details.jsp?glide=10156,Tech. Disaster,Indonesia,2000-06-29,AC,IDN,2000-000889,{Ferry} (Water)
-FA-2000-000888-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=10999,"Famine(use other ""Hazard"" code instead)","Korea, Democratic People's Republic",2000/0/0,FA,PRK,2000-000888,(Food shortage)
+FA-2000-000888-PRK,https://glidenumber.net/glide/public/search/details.jsp?glide=10999,Famine(use other HAZARD instead),"Korea, Democratic People's Republic",2000/0/0,FA,PRK,2000-000888,(Food shortage)
 AC-2000-000887-MAR,https://glidenumber.net/glide/public/search/details.jsp?glide=10530,Tech. Disaster,Morocco,2000-07-09,AC,MAR,2000-000887,(Water)
 AC-2000-000886-ESP,https://glidenumber.net/glide/public/search/details.jsp?glide=9892,Tech. Disaster,Spain,2000-05-07,AC,ESP,2000-000886,(Water)
 AC-2000-000885-PRI,https://glidenumber.net/glide/public/search/details.jsp?glide=10993,Tech. Disaster,Puerto Rico,2000-03-08,AC,PRI,2000-000885,(Water)
