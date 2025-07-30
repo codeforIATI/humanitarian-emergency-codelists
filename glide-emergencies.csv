@@ -1,4 +1,6 @@
 GLIDE_number,URL,Event,Country,Date,Event_Code,Country_Code,Glide_Serial,Comments
+EQ-2025-000123-RUS,https://glidenumber.net/glide/public/search/details.jsp?glide=23575,Earthquake,Russia,2025-07-29,EQ,RUS,2025-000123,"GDACS - High humanitarian impact, magnitude 8.7M tsunami generates 6.06m"
+EQ-2025-000122-GTM,https://glidenumber.net/glide/public/search/details.jsp?glide=23574,Earthquake,Guatemala,2025-07-29,EQ,GTM,2025-000122,"GDACS - Medium humanitarian impact, magnitude 5.6M"
 FL-2025-000121-CHN,https://glidenumber.net/glide/public/search/details.jsp?glide=23573,Flood,"China, People's Republic",2025-07-28,FL,CHN,2025-000121,"The latest round of heavy rainstorms has left 30 people dead in Beijing as of midnight Monday, the Beijing municipal flood control headquarters said Tuesday.
 The deaths occurred in Beijing's northern mountainous districts, with 28 in Miyun and two in Yanqing. 
 A total of 80,332 people have been relocated across the city, and the maximum rainfall was registered in Miyun, reaching 543.4 mm, according to local authorities."
